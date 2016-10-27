@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "410852893993",
+    "firebase_url": "https://collision-manager.firebaseio.com",
+    "project_id": "collision-manager",
+    "storage_bucket": "collision-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410852893993:android:491191e84a3fb5a1",
+        "android_client_info": {
+          "package_name": "com.cmserviceapp.ncj.cmserviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410852893993-r3akkniadt92mej47hj63db6dmkfibn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcTkKOH1u9L5JyS2jgpcTm70kG9Mzy2ZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
